@@ -7,3 +7,6 @@ Then start ClientApp.java file which will connect to the server program.
 Start another ClientApp.java as a second player.
 
 Both client app can play against each other using the server.
+
+
+For code explanation refer: https://youtu.be/krztnJyXQcc
